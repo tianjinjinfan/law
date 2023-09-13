@@ -1,0 +1,28 @@
+{
+  "Index": {
+    "title": "AI律所-ChatGPT",
+    "description1": "描述你的法律困惑 ",
+    "description2": "专业律师在线答疑",
+    "placeholder": "比如:公司开除员工不赔偿怎么办",
+    "simplifierButton": "咨询AI律师",
+    "switchLocale": "",
+    "deployWiki": "已废弃",
+    "slogan": "已废弃",
+    "step0": "粘贴你的 OpenAI API Key",
+    "openaiApiKeyPlaceholder": "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "step1": "已废弃",
+    "helpPageLink": "已废弃",   
+    "step2": "已废弃",
+    "simplifiedContent": "已废弃",
+    "privacyPolicy1": "已废弃",
+    "privacyPolicy2": "已废弃",
+    "paragraphForm": "已废弃",
+    "paragraphFormPrompt": "已废弃",
+    "prompt": "已废弃",
+    "outlineForm": "已废弃",
+    "outlineFormPrompt": "已废弃",
+    "pasteButton": "已废弃",
+    "clearButton": "已废弃",
+    "notice":"已废弃"
+  }
+}
